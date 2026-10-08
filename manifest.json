@@ -1,0 +1,9 @@
+{
+  "name": "PsychoWithSanskar NORCET Master",
+  "short_name": "PS NORCET",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07101e",
+  "theme_color": "#07101e",
+  "description": "PsychoWithSanskar NORCET Master v3.1"
+}
